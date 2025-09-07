@@ -382,13 +382,8 @@ DSN-CLI uses a `dsn.json` file in the project root to store metadata (e.g., proj
 
 ## Contributing
 
-DSN-CLI is open-source! To contribute:
+DSN-CLI is Not yet open-source! We aim to open it up as we progress
 
-*   Fork the repository: [git+https://github.com/ovie-daveth/dsn-CLI.git](git+https://github.com/ovie-daveth/dsn-CLI.git)
-*   Create a feature branch: `git checkout -b my-feature`
-*   Commit changes: `git commit -m "Add my feature"`
-*   Push to your fork: `git push origin my-feature`
-*   Open a pull request.
 
 Please follow the Code of Conduct and include tests for new features.
 
